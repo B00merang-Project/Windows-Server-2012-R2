@@ -4,7 +4,7 @@
 
 Windows Server 2012 R2 theme (Windows 8.1 theme w/ small tweaks)
 
-![win-server-2012-r2](https://github.com/B00merang-Project/gallery/raw/master/404-lol.png)
+![win-server-2012-r2](https://github.com/B00merang-Project/gallery/raw/master/Windows%20Server%202012%20R2%20(2).png)
 
 **Maintainer:** [Elbullazul](https://github.com/elbullazul)
 
